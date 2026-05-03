@@ -55,7 +55,7 @@ function About(props){
                 <div className="col-12">
                     <div className="section myBlock p-4">
                         <h2>What I do?</h2>
-                        <p>I am a software engineer with over <b style={{color:"#e31b6d"}}>2+ years</b> of experience and holds Master's degree in Computer Science, 
+                        <p>I am a software engineer with over <b style={{color:"#e31b6d"}}>3+ years</b> of experience and holds Master's degree in Computer Science, 
                             currently working at <a href="https://www.qualcomm.com/" target="_blank" style={{textDecoration:"none"}}><b style={{color:"#e31b6d"}}>Qualcomm</b></a>, Hyderabad on GSM technology. My journey in software development began with a love for 
                             solving puzzles and a fascination for technology. Over the years, I have honed my skills in various
                              programming languages, web technologies, and software development methodologies, allowing me to
@@ -79,7 +79,7 @@ function About(props){
                         {/* <h5>Experience</h5> */}
                         <hr/>
                         <div>
-                            <p><b>Total Experience : </b> 2+ Years</p>
+                            <p><b>Total Experience : </b> 3+ Years</p>
                             <p><b>Current Employer : </b> <a href="https://www.qualcomm.com/" target="_blank" style={{textDecoration:"none",color:"#e31b6d"}}>Qualcomm</a></p>
                         </div>
                     </div>
